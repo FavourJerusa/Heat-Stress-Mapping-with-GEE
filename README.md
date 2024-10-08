@@ -44,8 +44,11 @@ Keynote slide:
   Use this file: https://github.com/FavourJerusa/Heat-Stress-Mapping-with-GEE/blob/main/Show%20Shapefiles/Not_Temperature.js
   
 -Learn about the search bar
+
 -Learn about multiple bands
+
 -Learn about selecting desired band in Mapping tool
+
 -Learn about stretching your color bar to match your data in the Mapping tool
 
 
