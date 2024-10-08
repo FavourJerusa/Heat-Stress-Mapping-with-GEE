@@ -8,7 +8,9 @@ Download & Unzip these files (Bhutan_districts_polygon.zip & Bhutan_roads_line.z
 Use this file: Hot_Days_Real_World.js
 
 # 3.Change inputs to your own country
-Use the lat & long coordinates for this.*Apologies since some of these may not be accurate
+Use the lat & long coordinates for this.
+
+*Apologies since some of these may not be accurate
 
 Bangladesh: [87.5, 20.5, 93, 27]
 Bhutan: [88.5, 26.5, 92.5, 28.5]
@@ -23,18 +25,21 @@ South Africa: [16, -35, 33, -22] *Consider using a single province
 Sri Lanka: [79.5, 5.5, 82, 10]
 
 -Change so that it’s just 1 year and runs faster
+
 -Use Inspector to select a point in your country to Zoom in on
 
 # 4.Alter to match keynote speaker’s definition, average temperature >27.5॰C
 Keynote slide:
   Climate Projections
+  
   CMIP5 climate data from 21 models
-    NASA-NEX Global Daily Downscaled Projections(0.25॰C)
-    Daily min/max temperature
-    RCP4.5 & RCP8.5
-    Binned in t<12.5॰C and t>27.5॰C
-    10 year mean(2010)
-    20 year mean(2050)
+
+   NASA-NEX Global Daily Downscaled Projections(0.25॰C)
+   Daily min/max temperature
+   RCP4.5 & RCP8.5
+   Binned in t<12.5॰C and t>27.5॰C
+   10 year mean(2010)
+   20 year mean(2050)
 
 # 5.Export to Google Drive and to Assets
 
